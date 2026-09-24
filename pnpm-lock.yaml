@@ -8,6 +8,12 @@ importers:
 
   .:
     devDependencies:
+      '@neondatabase/serverless':
+        specifier: ^1.1.0
+        version: 1.1.0
+      bcryptjs:
+        specifier: ^3.0.3
+        version: 3.0.3
       turbo:
         specifier: latest
         version: 2.10.12

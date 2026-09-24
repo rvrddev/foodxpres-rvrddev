@@ -13,6 +13,8 @@
     "clean": "turbo run clean && rm -rf node_modules"
   },
   "devDependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "bcryptjs": "^3.0.3",
     "turbo": "latest"
   },
   "engines": {
